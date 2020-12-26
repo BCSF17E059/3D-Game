@@ -1,1 +1,2 @@
 # 3D-Game
+This Project is basically for hunting of Birds as well as animals with different capabilities We  will make birds with realistic capabilities not dummy birds  so they can sense hunter every move  like  don’t harm hunter and take decision  according to the movement. We will work on Bullet speed  and also PSO birds don’t collide with each other while moving from one place to another.We will use different techniques to make our game realistic.
