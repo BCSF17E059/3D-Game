@@ -1,5 +1,5 @@
 # Unity 3D Birds Hunting Game
--> Description
--> Intallation
--> Display
--> Algorithm
+## Description
+## Intallation
+## Display
+## Algorithm
