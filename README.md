@@ -23,4 +23,4 @@ to improve Birds colliding. So we will use different techniques to improve
 This Will show My output Like Play Game , Menu etc.
 
 ## Algorithm
-I used techniques for Play game assest like select Gun, Change Gun , Movemtn etc.
+I used techniques for Play game assest like select Gun, Change Gun , Movement etc.
