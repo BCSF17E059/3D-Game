@@ -14,3 +14,13 @@ concern is to work with Bullet timing. We wil add birds as well
 as animal hunting in this game for this We will use different techniques 
 to improve Birds colliding. So we will use different techniques to improve
  this like PSO so that birds don’t collide with each other.
+ 
+ ## Installation
+* Unity  2019.4.2f1 And Visual Studio 2013 are required to run.
+* Visual STUDIO 2013
+
+## Display
+This Will show My output Like Play Game , Menu etc.
+
+##Algorithm
+I used techniques for Play game assest like select Gun, Change Gun , Movemtn etc.
